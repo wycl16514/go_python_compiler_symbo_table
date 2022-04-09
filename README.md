@@ -1,0 +1,1 @@
+# go_python_compiler_symbo_table
